@@ -1,0 +1,1 @@
+# Clash-of-Clans-Clan-House-Elements-Mapping-for-Fan-Services
