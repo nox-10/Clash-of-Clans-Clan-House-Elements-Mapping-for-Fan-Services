@@ -8,17 +8,17 @@ Path:
 * clan-house/mapping.json
 
 Mapping elements:
-Ground: 23
-Walls: 24
-Roof: 59
-Decoration: 37
-Total: 143
+* Ground: 23
+* Walls: 24
+* Roof: 59
+* Decoration: 37
+* Total: 143
 
 Image elements:
-Ground: 15
-Walls: 20
-Roof: 56
-Decoration: 29
-Total: 126
+* Ground: 15
+* Walls: 20
+* Roof: 56
+* Decoration: 29
+* Total: 126
 
 Images from: clash wiki, fankit, game
