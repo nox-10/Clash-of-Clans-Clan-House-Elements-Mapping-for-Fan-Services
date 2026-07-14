@@ -22,8 +22,9 @@
         "82000139": "ClashaMania Ground",
         "82000141": "Dark Days Ground",
         "82000146": "Cosmic Rock Ground",
-        "82000150": "Wise Warriors Ground"
-
+        "82000150": "Wise Warriors Ground",
+        "82000154": "Anime Fury Ground",
+        "???": "Quest Chase Ground"
     },
     "walls": {
         "82000048": "Basic Walls",
@@ -49,7 +50,9 @@
         "82000140": "Cosmic Rock Walls",
         "82000144": "Clash-A-Rama Walls",
         "82000147": "Meltdown Mayhem?",
-        "82000151": "Wise Warriors Walls"
+        "82000151": "Wise Warriors Walls",
+        "82000155": "Anime Fury Walls",
+        "???": "Quest Chase Walls"
     },
     "roof": {
         "82000008": "Basic Orange",
@@ -110,7 +113,9 @@
         "82000142": "Clash-A-Rama Roof",
         "82000149": "Meltdown Mayhem",
         "82000120": "Football Roof",
-        "82000153": "Clash Sound Roof"
+        "82000153": "Clash Sound Roof",
+        "82000157": "Anime Fury Roof",
+        "???": "Quest Chase Roof"
     },
     "decoration": {
         "82000058": "Barrel",
@@ -149,7 +154,9 @@
         "82000138": "Tombstone",
         "82000143": "Barrel | Clash-A-Rama",
         "82000148": "Meltdown Mayhem",
-        "82000152": "Drum | Clash Sound",
+        "82000152": "Drum | Clash Sound",      
+        "82000156": "Anime Fury",
+        "???": "Quest Chase",
         
         "???": "Chocolate Tree",
         "???": "Log",
