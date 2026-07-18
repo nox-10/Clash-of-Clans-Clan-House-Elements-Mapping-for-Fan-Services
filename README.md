@@ -4,14 +4,14 @@
 
 ❗ This material is unofficial and is not endorsed by Supercell. For more information see Supercell's Fan Content Policy: www.supercell.com/fan-content-policy.❗ 
 
-Mapping elements:
+Mapping:
 * Ground: 24
 * Walls: 25
 * Roof: 60
 * Decoration: 38
 * Total: **147**
 
-Image elements:
+Image:
 * Ground: 24
 * Walls: 24
 * Roof: 60

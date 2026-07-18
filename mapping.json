@@ -24,7 +24,7 @@
         "82000146": "Cosmic Rock Ground",
         "82000150": "Wise Warriors Ground",
         "82000154": "Anime Fury Ground",
-        "???": "Quest Chase Ground"
+        "82000160": "Quest Chase Ground"
     },
     "walls": {
         "82000048": "Basic Walls",
@@ -52,7 +52,7 @@
         "82000147": "Meltdown Mayhem?",
         "82000151": "Wise Warriors Walls",
         "82000155": "Anime Fury Walls",
-        "???": "Quest Chase Walls"
+        "82000159": "Quest Chase Walls"
     },
     "roof": {
         "82000008": "Basic Orange",
@@ -115,7 +115,7 @@
         "82000120": "Football Roof",
         "82000153": "Clash Sound Roof",
         "82000157": "Anime Fury Roof",
-        "???": "Quest Chase Roof"
+        "82000161": "Quest Chase Roof"
     },
     "decoration": {
         "82000058": "Barrel",
@@ -156,7 +156,7 @@
         "82000148": "Meltdown Mayhem",
         "82000152": "Drum | Clash Sound",      
         "82000156": "Anime Fury",
-        "???": "Quest Chase",
+        "82000158": "Quest Chase",
         
         "???": "Chocolate Tree",
         "???": "Log",
